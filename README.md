@@ -21,3 +21,17 @@ These projects explore real-world data using Python, pandas, and Jupyter noteboo
   seaborn
   
   scikit-learn
+
+
+### 🧠 Summary
+This project demonstrates basic data analysis using Python and pandas, including:
+- Cleaning and exploring real-world datasets  
+- Visualizing results using matplotlib and seaborn  
+- Practicing reproducible analysis and organization  
+
+### ⚙️ Tools & Libraries
+- Python  
+- pandas  
+- matplotlib  
+- seaborn  
+- scikit-learn  
